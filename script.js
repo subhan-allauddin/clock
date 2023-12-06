@@ -11,9 +11,6 @@ hrs.innerHTML = currentTime.getHours();
 min.innerHTML = currentTime.getMinutes();
 sec.innerHTML = currentTime.getSeconds();
 },1000)
-if(day = 1){
-    document.write("Monday")
-}
 
 
 
